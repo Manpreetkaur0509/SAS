@@ -22,7 +22,10 @@ This project involves comprehensive exploratory data analysis of flight data usi
 - Manpreet Kaur
 
 ## Acknowledgments
-- Thanks to (https://github.com/KrithikaJayaraman/SAS-EDA-of-Flights-Dataset/commits?author=KrithikaJayaraman)
+- Thanks to KrithikaJayaraman for guidance and inspiration
+- https://github.com/KrithikaJayaraman
+
+
 ![image](https://github.com/Manpreetkaur0509/SAS/assets/146500547/d69ba4d8-5e5e-46a2-b414-82dbc5ea8909)
 
 
